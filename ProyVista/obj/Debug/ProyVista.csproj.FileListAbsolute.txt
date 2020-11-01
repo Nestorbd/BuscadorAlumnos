@@ -1,0 +1,12 @@
+E:\DAM_2\Interfases\BuscadorAlumno\ProyVista\bin\Debug\ProyVista.exe.config
+E:\DAM_2\Interfases\BuscadorAlumno\ProyVista\bin\Debug\ProyVista.exe
+E:\DAM_2\Interfases\BuscadorAlumno\ProyVista\bin\Debug\ProyVista.pdb
+E:\DAM_2\Interfases\BuscadorAlumno\ProyVista\obj\Debug\ProyVista.csprojAssemblyReference.cache
+E:\DAM_2\Interfases\BuscadorAlumno\ProyVista\obj\Debug\Buscador.Vista.Menu.resources
+E:\DAM_2\Interfases\BuscadorAlumno\ProyVista\obj\Debug\ProyVista.csproj.GenerateResource.cache
+E:\DAM_2\Interfases\BuscadorAlumno\ProyVista\obj\Debug\ProyVista.csproj.CoreCompileInputs.cache
+E:\DAM_2\Interfases\BuscadorAlumno\ProyVista\obj\Debug\ProyVista.exe
+E:\DAM_2\Interfases\BuscadorAlumno\ProyVista\obj\Debug\ProyVista.pdb
+E:\DAM_2\Interfases\BuscadorAlumno\ProyVista\obj\Debug\Buscador.Vista.FrmVerAlumnos.resources
+E:\DAM_2\Interfases\BuscadorAlumno\ProyVista\obj\Debug\Buscador.Vista.Properties.Resources.resources
+E:\DAM_2\Interfases\BuscadorAlumno\ProyVista\obj\Debug\Buscador.Vista.FrmBusEliAlumno.resources

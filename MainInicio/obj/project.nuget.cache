@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "agyWTrWeM1+cItYYEHCs/salNpA+CZXNLhQHQgvVfPwoB3WTKeb0cTwhXp4EIF/cnHY9LX4YVSAeoRuWQCYUIA==",
+  "success": true,
+  "projectFilePath": "E:\\DAM_2\\Interfases\\BuscadorAlumno\\MainInicio\\MainInicio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gamer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Gamer\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
